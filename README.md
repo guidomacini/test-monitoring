@@ -1,6 +1,6 @@
 # test-monitoring Project
 
-With this project I've reproduced the problem (there is an "/hello" endpoint). 
+With this project I've reproduced the problem (there is an "/hello" endpoint) -> test-monitoring/src/main/java/org/acme/GreetingResource.java. 
 Enabling the ELASTIC_APM_ENABLE_EXPERIMENTAL_INSTRUMENTATIONS all endpoint is monitored under a GET or POST generic paths.
 
 ## My environment
